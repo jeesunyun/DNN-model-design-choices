@@ -1,4 +1,4 @@
-# Explporation of Model Design and Model Generalization of Deep Newural Networks 
+# Exploration of Model Design and Model Generalization of Deep Newural Networks 
 
 This model design choices of Deep Neural Networks is explored using the MNIST handwritten digits dataset, and then the generalization is tested on the fashion-MNIST dataset.
 Deep learning is complicated by several design choices such as:
